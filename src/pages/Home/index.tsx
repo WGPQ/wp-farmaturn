@@ -14,7 +14,7 @@ function Home() {
           </div>
         </div>
         <div className="col-lg-4 order-1 order-lg-2 inicio-img" data-aos="zoom-out" data-aos-delay="300">
-          <img src="assets/img/hero-img.png" className="img-fluid animated" alt="" />
+          <img src="/assets/img/hero-img.png" className="img-fluid animated" alt="" />
         </div>
       </div>
     </div>
