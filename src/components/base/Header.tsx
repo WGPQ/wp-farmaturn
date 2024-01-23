@@ -51,7 +51,7 @@ function Header() {
       <div className="container d-flex align-items-center justify-content-between">
 
         <div className="logo">
-          <h1><a href="index.html"><span>Farmaturn</span></a></h1>
+          <h1><a href="#inicio" ><span>Farmaturn</span></a></h1>
         </div>
 
         <nav id="navbar" className={isMobil ? "navbar-mobile" : "navbar"}>

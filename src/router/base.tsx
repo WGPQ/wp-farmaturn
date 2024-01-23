@@ -5,10 +5,10 @@ import Main from "../pages/Main";
 const baseRoutes: any[] = [
     {
         path: "/",
-        element: <Navigate to="/main" replace />,
+        element: <Navigate to="/info" replace />,
     },
     {
-        path: "/main",
+        path: "/info",
         element: <Main />,
     },
 ];
